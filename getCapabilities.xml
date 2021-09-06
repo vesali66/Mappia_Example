@@ -137,7 +137,7 @@
 				<Title>شبکه_زیر_400</Title>
 				<Abstract>GH:شبکه_زیر_400 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸9</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="50.682380933039994" miny="34.468975754560674" maxx="50.9534977071922" maxy="34.7740816671632"></LatLonBoundingBox>
